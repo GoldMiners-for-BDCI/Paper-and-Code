@@ -33,7 +33,7 @@
 
 Checkout : [ZHIHU](https://zhuanlan.zhihu.com/p/263008440), [PaperWithCode](https://paperswithcode.com/task/image-reconstruction/latest)
 
-Detailss available at [Feishu](https://qv6rfojn7rl.feishu.cn/docx/YbmOdbzpCoFN2ixAlLxcUzven4e?from=from_copylink)
+Details available at [Feishu](https://qv6rfojn7rl.feishu.cn/docx/YbmOdbzpCoFN2ixAlLxcUzven4e?from=from_copylink)
 
 
 
