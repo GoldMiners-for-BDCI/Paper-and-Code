@@ -79,7 +79,7 @@ Problems solved:
 - single exposure HDR reconstruction
 
 Model:
-![](https://qv6rfojn7rl.feishu.cn/docx/YbmOdbzpCoFN2ixAlLxcUzven4e#KUiPdxnGIojhyDxV8fociRKSnNg)
+![architecture](https://qv6rfojn7rl.feishu.cn/docx/YbmOdbzpCoFN2ixAlLxcUzven4e#KUiPdxnGIojhyDxV8fociRKSnNg)
 
 1. Learn exposure masks through mask estimation module
 2. Dual intensity guidance
