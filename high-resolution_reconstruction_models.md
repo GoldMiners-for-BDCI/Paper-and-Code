@@ -37,7 +37,6 @@ Checkout : [ZHIHU](https://zhuanlan.zhihu.com/p/263008440), [PaperWithCode](http
 
 ## 2023
 ### (MARDGAN)(not implemented) Image super-resolution reconstruction based on multi-scale dual-attention
-
 Paper:
 - [MARDGAN](https://www.tandfonline.com/doi/full/10.1080/09540091.2023.2182487)
 
@@ -49,7 +48,7 @@ Model:
 - channel and spatial attention block (CSAB)
 - enhanced residual dense block (ERDB) 
 
-![Architecture](https://www.tandfonline.com/cms/asset/083e1b40-6ba6-4c3f-9d5e-f35fab2d27a7/ccos_a_2182487_f0001_oc.jpg)
+![Architecture](https://www.tandfonline.com/cms/asset/b90766fc-2220-47c1-a822-7e04f1801c57/ccos_a_2182487_f0001_oc.jpg)
 
 1. Feature extraction (CNN + CSAB + ERDB)
 2. Feature Diffusion (split + concat)
@@ -62,7 +61,6 @@ Model:
 ![CSAB](https://www.tandfonline.com/cms/asset/fcb4012c-4e82-42df-abe2-ee606eee342c/ccos_a_2182487_f0003_oc.jpg)
 ![channel attention, spatial attention](https://www.tandfonline.com/cms/asset/bdbdf5f5-26bc-44a9-8a9b-e4c635509df8/ccos_a_2182487_f0004_oc.jpg)
 ![SPP](https://www.tandfonline.com/cms/asset/17a63f9b-ea86-467b-b5f5-f90583225e3d/ccos_a_2182487_f0005_oc.jpg)
-
 ![ERDB](https://www.tandfonline.com/cms/asset/0b7a7375-5631-4034-9ec4-1acb738b9945/ccos_a_2182487_f0006_oc.jpg)
 
 Experiments:
@@ -96,8 +94,8 @@ Github:
 
 
 
-### (ESRGAN) Enhanced Super-Resolution Generative Adversarial Networks
 
+### (ESRGAN) Enhanced Super-Resolution Generative Adversarial Networks
 Github: 
 - real-ESRGAN
 - ESRGAN
