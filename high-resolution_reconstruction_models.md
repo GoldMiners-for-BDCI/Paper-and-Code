@@ -49,7 +49,7 @@ Model:
 - channel and spatial attention block (CSAB)
 - enhanced residual dense block (ERDB) 
 
-![Architecture](https://www.tandfonline.com/cms/asset/b90766fc-2220-47c1-a822-7e04f1801c57/ccos_a_2182487_f0001_oc.jpg)
+![Architecture](https://www.tandfonline.com/cms/asset/083e1b40-6ba6-4c3f-9d5e-f35fab2d27a7/ccos_a_2182487_f0001_oc.jpg)
 
 1. Feature extraction (CNN + CSAB + ERDB)
 2. Feature Diffusion (split + concat)
